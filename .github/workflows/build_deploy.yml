@@ -1,4 +1,4 @@
-name: Build and Deploy Vue3 Project
+name: Build&Deploy
 
 # 触发条件
 on:
